@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS_MrThompson:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS_MrThompson_jar</output-path>
+    <root id="archive" name="CS_MrThompson.jar">
+      <element id="module-output" name="CS_MrThompson" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
